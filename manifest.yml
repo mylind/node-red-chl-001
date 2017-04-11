@@ -7,4 +7,4 @@ applications:
   host: node-red-chl-001
   disk_quota: 1024M
   services:
-  - node-red-chl-001-cloudantNoSQLDB
+  - chl-node-red-002-cloudantNoSQLDB

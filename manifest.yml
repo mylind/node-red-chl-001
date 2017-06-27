@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: node-red-chl-001
-  host: node-red-chl-001
+  name: chl-test-new-node-red-starter
+  host: chl-test-new-node-red-starter
   disk_quota: 1024M
   services:
-  - chl-node-red-002-cloudantNoSQLDB
+  - chl-test-new-node-red-starter-cloudantNoSQLDB
